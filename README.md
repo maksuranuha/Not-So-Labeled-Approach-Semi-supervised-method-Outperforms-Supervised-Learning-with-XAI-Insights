@@ -1,0 +1,2 @@
+# Not-So-Labeled-Approach-Semi-supervised-method-Outperforms-Supervised-Learning-with-XAI-Insights
+Mango leaf decay cuts yields and profits, and manual detection is slow. We propose a real-time system using supervised and semi-supervised deep learning. DenseNet201 with FixMatch reaches 99.93% accuracy with only 30% labeled data. With eight classes of 500 images, the method scales and adds XAI for transparency.
